@@ -1,5 +1,5 @@
-__authors__ = 'TO_BE_FILLED'
-__group__ = 'TO_BE_FILLED'
+__authors__ = ['1776216','1749799','1745324']
+__group__ = 'Team_03'
 
 import numpy as np
 import utils
